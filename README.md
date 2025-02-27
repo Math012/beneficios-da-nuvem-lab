@@ -30,3 +30,16 @@
 - Segurança
     -  A nuvem oferece ferramentas de segurança que atendem as necessidades dos clientes, mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
     -  A implementação não é responsabilidade da Microsoft. Como, por exemplo, a atualização da máquina.
+
+### Governança e Gerenciabilidade
+
+- Governança
+    - Auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora da conformidade com seus padrões corporativos e fornece estratégias de mitigação.
+    - Dizer que a empresa seja alguns padrões corporativos e verificar se está fazendo da maneira correta.
+    - Um exemplo de governança é bloquear certas regiões, assim evitando criar recursos em regiões que não faz sentido para a empresa.
+    - Ao estabelecer uma presença de governança o mais cedo possível, você poderá manter sua presença de nuvem atualizada, protegida e bem gerenciada.
+
+- Gerenciabilidade
+    - Escalar automaticamente a implantação de recursos com base na necessidade.
+    - mplantar recursos com base em um modelo pre configurado, removendo a necessidade de configuração manual.
+    - O gerenciamento na nuvem diz respeito a maneira de gerenciar seu ambiente de nuvem e seus recursos. Por exemplo: Por meio de um portal web, usando uma interface de linha de comando.
